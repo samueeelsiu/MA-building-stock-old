@@ -1,0 +1,202 @@
+{
+  "scatter_data": {
+    "Est GFA sqmeters": [
+      2950.0,
+      38750.0,
+      18800.0,
+      7950.0,
+      590.0,
+      47750.0,
+      33000.0,
+      5100.0,
+      3350.0,
+      54500.0,
+      25500.0,
+      16200.0,
+      57000.0,
+      30750.0,
+      26750.0,
+      84500.0
+    ],
+    "mass_total": [
+      1739635.55,
+      57571630.88,
+      20157337.42231099,
+      9194145.601333275,
+      1188779.82,
+      36308740.36,
+      63044139.17,
+      6559071.850450456,
+      2616248.55276237,
+      53493141.95245562,
+      22038508.79871493,
+      10368014.29486267,
+      51942192.05755012,
+      22711861.91373206,
+      21547947.78001767,
+      187173651.41
+    ],
+    "gwp_a_to_c": [
+      868345.76,
+      17969517.89891,
+      9503939.958065167,
+      5117695.449452532,
+      517949.83958,
+      16389868.010288,
+      23192012.0488,
+      3667601.603913639,
+      1437932.253390927,
+      35495900.35272645,
+      12689334.45059622,
+      4849932.257020103,
+      28249668.48961869,
+      16630779.87193096,
+      12556402.19872353,
+      56728392.13
+    ],
+    "OCC_CLS": [
+      "Assembly",
+      "Commercial",
+      "Education",
+      "Education",
+      "Government",
+      "Commercial",
+      "Commercial",
+      "Assembly",
+      "Commercial",
+      "Commercial",
+      "Education",
+      "Education",
+      "Commercial",
+      "Residential",
+      "Commercial",
+      "Commercial"
+    ],
+    "material_type": [
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "W",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S",
+      "S"
+    ],
+    "str_sys_summary": [
+      "Steel",
+      "Steel",
+      "Steel",
+      "Steel",
+      "Steel",
+      "Steel",
+      "Steel",
+      "Wood: Mass Timber",
+      "Steel",
+      "Steel/Concrete",
+      "Steel",
+      "Steel",
+      "Steel",
+      "Steel/Concrete",
+      "Steel",
+      "Steel/Concrete"
+    ]
+  },
+  "heatmap_material_count": {
+    "z": [
+      [
+        5,
+        10
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "x": [
+      "Deep foundation < 50' (15m)",
+      "Shallow foundation"
+    ],
+    "y": [
+      "S",
+      "W"
+    ]
+  },
+  "heatmap_material_gfa": {
+    "z": [
+      [
+        174590.0,
+        273750.0
+      ],
+      [
+        0.0,
+        5100.0
+      ]
+    ],
+    "x": [
+      "Deep foundation < 50' (15m)",
+      "Shallow foundation"
+    ],
+    "y": [
+      "S",
+      "W"
+    ]
+  },
+  "heatmap_struct_count": {
+    "z": [
+      [
+        4,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "x": [
+      "Deep foundation < 50' (15m)",
+      "Shallow foundation"
+    ],
+    "y": [
+      "Steel",
+      "Steel/Concrete",
+      "Wood: Mass Timber"
+    ]
+  },
+  "heatmap_struct_gfa": {
+    "z": [
+      [
+        120090.0,
+        158500.0
+      ],
+      [
+        54500.0,
+        115250.0
+      ],
+      [
+        0.0,
+        5100.0
+      ]
+    ],
+    "x": [
+      "Deep foundation < 50' (15m)",
+      "Shallow foundation"
+    ],
+    "y": [
+      "Steel",
+      "Steel/Concrete",
+      "Wood: Mass Timber"
+    ]
+  }
+}
